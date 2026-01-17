@@ -1,0 +1,5 @@
+{
+  "name": "SlideGenius AI",
+  "description": "AI-powered presentation creator. Upload images or PDFs to generate slides, subtitles, and narration with background music. Features advanced image generation with aspect ratio control.",
+  "requestFramePermissions": []
+}
